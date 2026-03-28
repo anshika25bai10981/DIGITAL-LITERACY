@@ -37,7 +37,12 @@ https://docs.google.com/spreadsheets/d/1fA6P4DaXYaJVKTj1dLe_MhkC-kAKOt0xIp8hg-wW
 
  -- Google Spreadsheet
 
+ -- HackerRank
 
 💡 Key Takeaway
 
 Being digitally literate is not just about using technology, but using it safely, responsibly, and effectively.
+
+Coding Platform Used:
+
+I used HackerRank to solve a beginner-level problem. This helped me understand basic coding and problem-solving.
