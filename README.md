@@ -20,7 +20,7 @@ This module involved building and updating professional profiles on platforms su
 
 ## Module 3: Programming & Collaboration
 Here, I practiced coding on platforms like HackerRank and CodeChef by solving beginner-level problems. Additionally, I created a Google Form quiz to spread awareness about digital literacy.
-Quiz Link: https://forms.gle/JwCchMnr2nc7J9Lk7
+Quiz Link: https://forms.gle/KrFzm4HvfnEeyE2B7
 
 ## Module 4: Email & Social Media Etiquette
 This module focused on writing professional emails, including requests for assignments and internship inquiries. I also learned the correct structure, tone, and etiquette for emails. Along with this, I prepared a checklist of appropriate and inappropriate practices for social media usage.
